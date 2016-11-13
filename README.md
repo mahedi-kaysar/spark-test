@@ -104,3 +104,5 @@ Please review the [Contribution to Spark](https://cwiki.apache.org/confluence/di
 wiki for information on how to get started contributing to the project.
 
 ## Online Tutorials
+
+https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
